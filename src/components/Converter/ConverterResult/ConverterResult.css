@@ -1,0 +1,9 @@
+.Result {
+    border: 1px solid #999;
+    background: #f1f1f1;
+    border-radius: 8px;
+    resize: none;
+    outline: none;
+    padding: 15px;
+    width: 100%;
+}
