@@ -1,10 +1,10 @@
-import Converter from './components/Converter'
+import Converter from './components/Converter';
 function App() {
-  return (
-    <div className="App">
-      <Converter />
-    </div>
-  );
+    return (
+        <div className="App">
+            <Converter />
+        </div>
+    );
 }
 
 export default App;

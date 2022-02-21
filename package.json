@@ -39,7 +39,14 @@
       "last 1 safari version"
     ]
   },
+  "prettier": {
+    "singleQuote": true,
+    "tabWidth": 4,
+    "bracketSpacing": true,
+    "printWidth": 110
+  },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.5.1"
   }
 }
