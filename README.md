@@ -1,3 +1,7 @@
-# Convert table data to array (php array, js object)
+# Конвертация данных в массивы или объекты
 
 https://ontegor.github.io/table-data-to-array/
+
+### Как это использовать?
+
+В левую колонку вставляем ключи. В правую значения. На выходе имеем массив или объект
